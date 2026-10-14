@@ -1,0 +1,21 @@
+[project]
+name = "ai-engineering-buildcamp-codespaces"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Manoj", email = "134831183+DataFinFreak@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "openai>=3.29.0",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+ai-engineering-buildcamp-codespaces = "ai_engineering_buildcamp_codespaces:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
