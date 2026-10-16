@@ -44,7 +44,6 @@ conversation yourself by appending `response.output` back onto `messages`.
 - ⭐ ❓ [Chat with Your Own Data: Introduction to the LLM Zoomcamp](https://www.youtube.com/watch?v=q-p36Ak6YI8) — Alexey Grigorev. The frame for the whole course.
 - ❓ [OpenAI with Python: A Step-by-Step Guide for Beginners](https://www.youtube.com/watch?v=-A7njXsJl5M) — setup through first calls.
 - ❓ [OpenAI Responses API Tutorial (Python)](https://www.youtube.com/playlist?list=PL4HikwTaYE0GgR36Px9iXb9bNgrLihCnG) — playlist on the Responses API specifically, which is the newer endpoint most tutorials still don't use.
-- ❓ [How to Stream OpenAI Responses in Python](https://www.youtube.com/watch?v=FJJn3ZVm3VA) — only if the streaming cell needs unpacking.
 
 ---
 
