@@ -224,3 +224,6 @@ __marimo__/
 # Local-only working notes (not for the public repo)
 CLAUDE.md
 COMMANDS.md
+
+# Local-only Claude Code tooling (not part of the published homework)
+.claude/
