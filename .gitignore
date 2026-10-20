@@ -237,3 +237,7 @@ Code/projects/*/PLAN.md
 # Per-project downloaded data (re-downloadable from the CSV)
 Code/projects/*/pdfs/
 Code/projects/*/pdfs_text/
+
+# Personal brand notes (local-only)
+BRAND.md
+brand/
