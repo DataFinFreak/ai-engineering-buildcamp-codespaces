@@ -227,3 +227,6 @@ COMMANDS.md
 
 # Local-only Claude Code tooling (not part of the published homework)
 .claude/
+
+# Per-project context notes (local-only)
+Code/projects/*/CONTEXT.md
