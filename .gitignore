@@ -230,3 +230,10 @@ COMMANDS.md
 
 # Per-project context notes (local-only)
 Code/projects/*/CONTEXT.md
+
+# Per-project plans (local-only)
+Code/projects/*/PLAN.md
+
+# Per-project downloaded data (re-downloadable from the CSV)
+Code/projects/*/pdfs/
+Code/projects/*/pdfs_text/
