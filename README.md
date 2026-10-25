@@ -10,6 +10,7 @@ Course work for AI Bootcamp: From RAG to Agents, plus my own projects.
 ## Contents
 
 - `Code/01-foundation/`, `Code/02-rag-usecases-tech/`: course notebooks, by module
+- `Code/03-agents/`: agent basics (tool calls, Q&A loop) and agent frameworks (toyaikit, Pydantic AI)
 - `Code/projects/`: my own projects
 - [`LEARNING-RESOURCES.md`](LEARNING-RESOURCES.md): videos, docs and books for each concept,
   mapped to the notebook section that uses it
